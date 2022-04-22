@@ -32,6 +32,24 @@ permalink: /index.html
 </p>
 
 <p style="line-height: 28px;">
+<img src="files/harbison.jpg" class="rounded">
+&nbsp;&nbsp;Susan Harbison<br>
+&nbsp;&nbsp;<a href="https://irp.nih.gov/pi/susan-harbison" target="_blank">National Heart Lung Blood Institute (NHLBI)</a>
+</p>
+
+<p style="line-height: 28px;">
+<img src="files/highfill.jpeg" class="rounded">
+&nbsp;&nbsp;Chad Highfill<br>
+&nbsp;&nbsp;<a href="https://frederick.cancer.gov" target="_blank">Frederick National Laboratory for Cancer Research</a>
+</p>
+
+<p style="line-height: 28px;">
+<img src="files/macpherson.jpg" class="rounded">
+&nbsp;&nbsp;Rebecca MacPherson<br>
+&nbsp;&nbsp;<a href="https://scienceweb.clemson.edu/chg/rebecca-anne-macpherson-2/" target="_blank">Clemson University</a>
+</p>
+
+<p style="line-height: 28px;">
 <img src="files/morgante.jpg" class="rounded">
 &nbsp;&nbsp;Fabio Morgante<br>
 &nbsp;&nbsp;<a href="https://scienceweb.clemson.edu/chg/" target="_blank">Clemson University</a>
@@ -49,3 +67,8 @@ permalink: /index.html
 &nbsp;&nbsp;<a href="https://www.ncsu.edu" target="_blank">North Carolina State University</a>
 </p>
 
+<p style="line-height: 28px;">
+<img src="files/wolfpack.png" class="rounded">
+&nbsp;&nbsp;Deepa Sambandan<br>
+&nbsp;&nbsp;<a href="https://www.ncsu.edu" target="_blank">North Carolina State University</a>
+</p>
