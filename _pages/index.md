@@ -67,3 +67,8 @@ permalink: /index.html
 &nbsp;&nbsp;<a href="https://www.ncsu.edu" target="_blank">North Carolina State University</a>
 </p>
 
+<p style="line-height: 28px;">
+<img src="files/zhou.jpeg" class="rounded">
+&nbsp;&nbsp;Shanshan Zhou<br>
+&nbsp;&nbsp;<a href="https://drugdevelopment.labcorp.com" target="_blank">Labcorp Drug Development</a>
+</p>
