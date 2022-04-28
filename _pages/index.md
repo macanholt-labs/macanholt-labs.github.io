@@ -68,6 +68,12 @@ permalink: /index.html
 </p>
 
 <p style="line-height: 28px;">
+<img src="files/stone.jpg" class="rounded">
+&nbsp;&nbsp;Eric Stone<br>
+&nbsp;&nbsp;<a href="https://bdsi.anu.edu.au/people/professor-eric-stone" target="_blank">Australian National University</a>
+</p>
+
+<p style="line-height: 28px;">
 <img src="files/zhou.jpeg" class="rounded">
 &nbsp;&nbsp;Shanshan Zhou<br>
 &nbsp;&nbsp;<a href="https://drugdevelopment.labcorp.com" target="_blank">Labcorp Drug Development</a>
