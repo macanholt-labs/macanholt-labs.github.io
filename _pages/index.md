@@ -20,6 +20,13 @@ permalink: /index.html
 </p>
 
 <p style="line-height: 28px;">
+<img src="files/deluca.jpg" class="rounded">
+&nbsp;&nbsp;Jeff Leips<br>
+&nbsp;&nbsp;<a href="https://www.uab.edu/shp/nutrition/people/faculty/maria-deluca" target="_blank">University of Alabama at Birmingham</a>
+</p>
+
+
+<p style="line-height: 28px;">
 <img src="files/dembeck.jpeg" class="rounded">
 &nbsp;&nbsp;Lauren Dembeck<br>
 &nbsp;&nbsp;<a href="https://laurendembeck.com" target="_blank">Dembeck Science and Medical</a>
@@ -38,10 +45,11 @@ permalink: /index.html
 </p>
 
 <p style="line-height: 28px;">
-<img src="files/highfill.jpeg" class="rounded">
-&nbsp;&nbsp;Chad Highfill<br>
-&nbsp;&nbsp;<a href="https://frederick.cancer.gov" target="_blank">Frederick National Laboratory for Cancer Research</a>
+<img src="files/leips.jpeg" class="rounded">
+&nbsp;&nbsp;Jeff Leips<br>
+&nbsp;&nbsp;<a href="https://biology.umbc.edu/directory/faculty/person/sf01964/" target="_blank">University of Maryland, Baltimore County</a>
 </p>
+
 
 <p style="line-height: 28px;">
 <img src="files/macpherson.jpg" class="rounded">
