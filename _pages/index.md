@@ -21,7 +21,7 @@ permalink: /index.html
 
 <p style="line-height: 28px;">
 <img src="files/deluca.jpg" class="rounded">
-&nbsp;&nbsp;Jeff Leips<br>
+&nbsp;&nbsp;Maria de Luca<br>
 &nbsp;&nbsp;<a href="https://www.uab.edu/shp/nutrition/people/faculty/maria-deluca" target="_blank">University of Alabama at Birmingham</a>
 </p>
 
