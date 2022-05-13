@@ -29,7 +29,9 @@ For non-Clemson attendees, a block of rooms to be booked by the symposium attend
 
 There is an optional visit to the Clemson Center for Human Genetics on August 5th in the morning. It is recommended that you arrive on the night of August 4th and obtain lodging in Greenwood, SC for the night. Transportation will be arranged from the CHG to the Conference Center. Please fill out this [form](https://forms.gle/i74ZyrYczmYnhypt5) if you require transportation.
 
-### Confirmed speakers
+
+
+### Keynote speakers
 
 <p style="line-height: 28px;">
 <img src="files/mackay.jpg" class="rounded">
@@ -42,6 +44,8 @@ There is an optional visit to the Clemson Center for Human Genetics on August 5t
 &nbsp;&nbsp;Robert Anholt<br>
 &nbsp;&nbsp;<a href="https://scienceweb.clemson.edu/chg/" target="_blank">Clemson University</a>
 </p>
+
+### Confirmed speakers
 
 <p style="line-height: 28px;">
 <img src="files/deluca.jpg" class="rounded">
