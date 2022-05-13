@@ -5,6 +5,30 @@ active: home
 permalink: /index.html
 ---
 
+
+<h3 style="text-align: center">August 5-6, 2022<br>The Madren Conference Center at Clemson University</h3>
+
+The 2022 Clemson Symposium on Quantitative Genetics features a wonderful lineup of speakers from the broad area of genetics and genomics. The symposium is organized in part to celebrate the exceptionally prolific and accomplished careers of Drs. Trudy Mackay and Robert Anholt.
+
+### Registration
+
+Registration is open until June 15th. Registration fee is $30.00 for Clemson attendees and can be completed at this [link](tinyurl.com/2022ClemsonQG). The registration includes catered breakfast and lunch on August 6th.
+
+### Getting to the Conference Center
+
+If you travel from out of state, the conference center is on Clemson campus and the nearest airport is the Greenville-Spartanburg International Airport (GSP), which is approximately 45 minutes away. The address of the conference center is:
+
+230 Madren Center Drive<br>
+Clemson, SC 29634
+
+### Accommodations
+
+For non-Clemson attendees, a block of rooms to be booked by the symposium attendees at the [James F. Martin Inn](https://www.stayatclemson.com) directly connected to the conference site. To enjoy the discounted rate at $134.00 + tax, please call 864-654-9020 and mention the contract number GF23320. There is no option to do online booking, unfortunately.
+
+### Visit to the Clemson Center for Human Genetics
+
+There is an optional visit to the Clemson Center for Human Genetics on August 5th in the morning. It is recommended that you arrive on the night of August 4th and obtain lodging in Greenwood, SC for the night. Transportation will be arranged from the CHG to the Conference Center. Please fill out this [form](https://forms.gle/i74ZyrYczmYnhypt5) if you require transportation.
+
 ### Confirmed speakers
 
 <p style="line-height: 28px;">
@@ -32,6 +56,15 @@ permalink: /index.html
 &nbsp;&nbsp;<a href="https://laurendembeck.com" target="_blank">Dembeck Science and Medical</a>
 </p>
 
+
+<p style="line-height: 28px;">
+<img src="files/flanagan.jpg" class="rounded">
+&nbsp;&nbsp;Heather Flanagan-Steet<br>
+&nbsp;&nbsp;<a href="https://scienceweb.clemson.edu/chg/dr-heather-flanagan-steet/" target="_blank">Greenwood Genetic Center</a>
+</p>
+
+
+
 <p style="line-height: 28px;">
 <img src="files/fry.jpg" class="rounded">
 &nbsp;&nbsp;James Fry<br>
@@ -43,6 +76,20 @@ permalink: /index.html
 &nbsp;&nbsp;Susan Harbison<br>
 &nbsp;&nbsp;<a href="https://irp.nih.gov/pi/susan-harbison" target="_blank">National Heart Lung Blood Institute (NHLBI)</a>
 </p>
+
+
+<p style="line-height: 28px;">
+<img src="files/hatfield.jpg" class="rounded">
+&nbsp;&nbsp;Spencer Hatfield<br>
+&nbsp;&nbsp;<a href="https://scienceweb.clemson.edu/chg/spencer-hatfield/" target="_blank">Clemson University</a>
+</p>
+
+<p style="line-height: 28px;">
+<img src="files/huang.jpg" class="rounded">
+&nbsp;&nbsp;Wen Huang<br>
+&nbsp;&nbsp;<a href="https://qgg-lab.github.io" target="_blank">Michigan State University</a>
+</p>
+
 
 <p style="line-height: 28px;">
 <img src="files/leips.jpeg" class="rounded">
@@ -57,6 +104,14 @@ permalink: /index.html
 &nbsp;&nbsp;<a href="https://scienceweb.clemson.edu/chg/rebecca-anne-macpherson-2/" target="_blank">Clemson University</a>
 </p>
 
+
+<p style="line-height: 28px;">
+<img src="files/mokashi.jpg" class="rounded">
+&nbsp;&nbsp;Sneha Mokashi<br>
+&nbsp;&nbsp;<a href="https://scienceweb.clemson.edu/chg/sneha-mokashi/" target="_blank">Greenwood Genetic Center</a>
+</p>
+
+
 <p style="line-height: 28px;">
 <img src="files/morgante.jpg" class="rounded">
 &nbsp;&nbsp;Fabio Morgante<br>
@@ -69,17 +124,50 @@ permalink: /index.html
 &nbsp;&nbsp;<a href="https://www.bioskryb.com" target="_blank">Bioskryb Genomics</a>
 </p>
 
+
 <p style="line-height: 28px;">
-<img src="files/wolfpack.png" class="rounded">
+<img src="files/nielsen.jpg" class="rounded">
+&nbsp;&nbsp;Dahlia Nielsen<br>
+&nbsp;&nbsp;<a href="https://bio.sciences.ncsu.edu/people/dmnielse/" target="_blank">North Carolina State University</a>
+</p>
+
+
+
+<p style="line-height: 28px;">
+<img src="files/sambandan.jpg" class="rounded">
 &nbsp;&nbsp;Deepa Sambandan<br>
 &nbsp;&nbsp;<a href="https://www.ncsu.edu" target="_blank">North Carolina State University</a>
 </p>
+
+
+
+<p style="line-height: 28px;">
+<img src="files/steet.jpg" class="rounded">
+&nbsp;&nbsp;Richard Steet<br>
+&nbsp;&nbsp;<a href="https://scienceweb.clemson.edu/chg/dr-richard-steet/" target="_blank">Greenwood Genetic Center</a>
+</p>
+
 
 <p style="line-height: 28px;">
 <img src="files/stone.jpg" class="rounded">
 &nbsp;&nbsp;Eric Stone<br>
 &nbsp;&nbsp;<a href="https://bdsi.anu.edu.au/people/professor-eric-stone" target="_blank">Australian National University</a>
 </p>
+
+<p style="line-height: 28px;">
+<img src="files/weir.jpg" class="rounded">
+&nbsp;&nbsp;Bruce Weir<br>
+&nbsp;&nbsp;<a href="https://www.biostat.washington.edu/people/bruce-weir" target="_blank">University of Washington</a>
+</p>
+
+
+<p style="line-height: 28px;">
+<img src="files/zeng.jpg" class="rounded">
+&nbsp;&nbsp;Zhao-Bang Zeng<br>
+&nbsp;&nbsp;<a href="https://brcwebportal.cos.ncsu.edu/zeng/" target="_blank">North Carolina State University</a>
+</p>
+
+
 
 <p style="line-height: 28px;">
 <img src="files/zhou.jpeg" class="rounded">
