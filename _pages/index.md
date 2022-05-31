@@ -94,6 +94,11 @@ There is an optional visit to the Clemson Center for Human Genetics on August 5t
 &nbsp;&nbsp;<a href="https://qgg-lab.github.io" target="_blank">Michigan State University</a>
 </p>
 
+<p style="line-height: 28px;">
+<img src="files/lai.jpg" class="rounded">
+&nbsp;&nbsp;Chao-Qiang Lai<br>
+&nbsp;&nbsp;<a href="https://hnrca.tufts.edu/people/faculty/chao-qiang-lai-phd" target="_blank">USDA Human Nutrition Research Center on Aging</a>
+</p>
 
 <p style="line-height: 28px;">
 <img src="files/leips.jpeg" class="rounded">
