@@ -10,6 +10,11 @@ permalink: /index.html
 
 The 2022 Clemson Symposium on Quantitative Genetics features a wonderful lineup of speakers from the broad area of genetics and genomics. The symposium is organized in part to celebrate the exceptionally prolific and accomplished careers of Drs. Trudy Mackay and Robert Anholt.
 
+### Date and Time
+
+- Friday, August 5, 2022: 1:30PM - 5:00PM
+- Saturday, August 6, 2022: 8:30AM - 5:00PM
+
 ### Registration
 
 Registration is open until June 30th. Registration fee is $30.00 for Clemson attendees and can be completed at this [link](https://tinyurl.com/2022ClemsonQG). The registration includes catered breakfast and lunch on August 6th.
