@@ -12,7 +12,7 @@ The 2022 Clemson Symposium on Quantitative Genetics features a wonderful lineup 
 
 ### Registration
 
-Registration is open until June 30th. Registration fee is $30.00 for Clemson attendees and can be completed at this [link](tinyurl.com/2022ClemsonQG). The registration includes catered breakfast and lunch on August 6th.
+Registration is open until June 30th. Registration fee is $30.00 for Clemson attendees and can be completed at this [link](https://tinyurl.com/2022ClemsonQG). The registration includes catered breakfast and lunch on August 6th.
 
 ### Getting to the Conference Center
 
