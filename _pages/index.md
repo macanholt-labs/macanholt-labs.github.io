@@ -36,6 +36,15 @@ There is an optional visit to the Clemson Center for Human Genetics on August 5t
 
 
 
+### Opening remarks
+
+<p style="line-height: 28px;">
+<img src="files/young.jpg" class="rounded">
+&nbsp;&nbsp;Cynthia Young<br>
+&nbsp;&nbsp;<a href="https://www.clemson.edu/science/about/dean.html" target="_blank">Founding Dean, College of Science, Clemson University</a>
+</p>
+
+
 ### Keynote speakers
 
 <p style="line-height: 28px;">
