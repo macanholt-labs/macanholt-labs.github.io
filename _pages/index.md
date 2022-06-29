@@ -19,6 +19,8 @@ The 2022 Clemson Symposium on Quantitative Genetics features a wonderful lineup 
 
 Registration is open until July 10th. Registration fee is $30.00 for Clemson attendees and can be completed at this [link](https://tinyurl.com/2022ClemsonQG). The registration includes catered breakfast and lunch on August 6th.
 
+If you have questions, please contact Wen Huang (huangw53@msu.edu).
+
 ### Getting to the Conference Center
 
 If you travel from out of state, the conference center is on Clemson campus and the nearest airport is the Greenville-Spartanburg International Airport (GSP), which is approximately 45 minutes away. The address of the conference center is:
